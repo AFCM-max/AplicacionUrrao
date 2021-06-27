@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Urrao application</string>
+    <!---<string name="z">Molienda</string>
+    <string name="x">Queso</string>
+    <string name="c">Iglesia</string>
+    <string name="v">Monte frontino</string>-->
+    <string name="desc1">"Cane grinding: How about a good glass of cold garapa with lemon or freshly made panela? Panela is a traditional Colombian product that is also manufactured in Urrao
+
+We invite you to learn about this process from the cultivation of sugar cane to the production of by-products such as bleaching! "</string>
+    <string name="desc2">Urraeño sweet cheese:
+
+Our traditional sweet cheese, emblematic product, is distinguished as sweet cheese with milk - dulce Urraeño
+
+    We are the producers of delicious sweet cheese, which represents a tradition of our ancestors and typical food of one of the most beautiful regions, Urrao, a municipality located in the Southwest of Antioquia, our quality and experience makes the difference in taste and presentation, for that every day, thanks to family work, our products can now reach Colombian homes.
+
+The producers of the delicious sweet cheese, which represents a tradition of our ancestors and typical food of one of the most beautiful regions, Urrao, a municipality located in the Southwest of Antioquia, makes a difference in taste and presentation.</string>
+    <string name="desc3">The Páramo del Sol, also called Frontino de Sabanas, de Urrao is a páramo system in the Colombian department of Antioquia, its maximum point being Alto Campanas at approximately 3,960 meters above sea level, The páramo is located 17 km north of the head of the municipality of Urrao, between latitude 6 ° -7 ° north and meridians 76 ° -77 ° west of Greenwich, in the Western Cordillera of the Colombian Andes, on the jurisdictions of the Antioqueño municipalities of Urrao, Abriaquí, Caicedo and Frontinus.
+        The complex has an area of ​​approximately thirty square kilometers​</string>
+    <string name="desc4">The Church of San José! Colombian church under the invocation of San José located in the Parque Principal de Urrao (Antioquia), a municipality where it is the main religious temple.
+It was designed by the self-taught architect Horacio Marino Rodríguez</string>
+    <string name="desc5">CHURCH</string>
+    <string name="opcion1">About</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+    <string name="descripcion">hello my name is Andres Felipe Cossio at this moment I am studying software development in cesde,
+        Apart from this, I am a technician in occupational health and safety, which I carry out at SENA.
+    I really like the subject of social work and art</string>
+</resources>

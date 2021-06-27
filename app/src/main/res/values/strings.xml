@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Aplicacion Urrao</string>
+    <!---<string name="z">Molienda</string>
+    <string name="x">Queso</string>
+    <string name="c">Iglesia</string>
+    <string name="v">Monte frontino</string>-->
+    <string name="desc1">"Molienda de caña:¿Qué tal un buen vaso de garapa fría con limón o panela recin salida?. La panela es un producto tradicional colombiano que también se fabrica en Urrao
+
+Te invitamos a conocer este proceso desde el cultivo de la caña de azúcar hasta la elaboración de subproductos como el blanqueado!"</string>
+    <string name="desc2">Queso dulce Urraeño:
+
+Nuestro tradicional queso dulce, producto emblemático, se distingue como el queso dulce con leche – dulce Urraeño
+
+    Somos los productores del delicioso queso dulce, que representa una tradición de nuestros antepasados y alimento típico de una de las regiones más hermosas, Urrao, municipio ubicado al Suroeste de Antioquia, nuestra calidad y experiencia marca la diferencia en el sabor y la presentación, por eso cada día gracias al trabajo en familia nuestros productos ya pueden llegar a los hogares colombianos.
+
+los productores del delicioso queso dulce, que representa una tradición de nuestros antepasados y alimento típico de una de las regiones más hermosas, Urrao, municipio ubicado al Suroeste de Antioquia, marca la diferencia en el sabor y la presentación.
+
+ </string>
+    <string name="desc3">El Páramo del Sol, llamado también de Frontino de Sabanas, de Urrao es un sistema de páramo en el departamento colombiano de Antioquia, siendo su punto máximo el Alto Campanas a 3960 msnm aproximadamente, El páramo se encuentra a 17 km al norte de la cabecera del municipio de Urrao, entre los 6°-7° de latitud norte y los meridianos 76°-77° oeste de Greenwich, en la cordillera Occidental de los Andes colombianos, sobre las jurisdicciones de los municipios antioqueños de Urrao, Abriaquí, Caicedo y Frontino.
+        El complejo tiene una superficie aproximada de treinta kilómetros cuadrados​</string>
+    <string name="desc4">¡La Iglesia de San José! iglesia colombiana bajo la advocación de San José localizada en el Parque Principal de Urrao (Antioquia), municipio donde es el principal templo religioso.
+Fue diseñado por el arquitecto autodidacta Horacio Marino Rodríguez</string>
+    <string name="desc5">IGLESIA</string>
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Eespañol</string>
+    <string name="descripcion">hola me llamo Andres Felipe Cossio en este momento estudio desarrollo de software en el cesde,
+        aparte de esto soy tecnico en seguridad y salud laboral la cual realice en el SENA.
+    Me gusta mucho el tema del trabajo social y arte</string>
 </resources>

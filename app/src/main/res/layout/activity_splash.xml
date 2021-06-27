@@ -9,4 +9,18 @@
     android:background="@drawable/urrao"
     tools:context=".Splash">
 
+
+    <ImageView
+        android:id="@+id/unCampo"
+        android:layout_width="225dp"
+        android:layout_height="196dp"
+        android:layout_marginStart="93dp"
+        android:layout_marginLeft="93dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="93dp"
+        android:layout_marginRight="93dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/uncampo" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302710666737",
+    "project_id": "aplicacionturistica-c5f13",
+    "storage_bucket": "aplicacionturistica-c5f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302710666737:android:aa1e4a10704c5704e74050",
+        "android_client_info": {
+          "package_name": "com.example.aplicacionurrao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302710666737-060notjlhid32quuqkjco43fg3ciht4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAJcYXDQFd-roV3ZitWU-tXGOETP298XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302710666737-060notjlhid32quuqkjco43fg3ciht4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
